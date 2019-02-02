@@ -1,2 +1,2 @@
 # Hackerrank-Solutions
-This contains solutions for all C++ problems of Hackerrank.
+This contains solutions for all problems of Hackerrank in C++.
